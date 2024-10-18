@@ -15,10 +15,15 @@ This project is a responsive web page built using HTML5, CSS3, and Vanilla JavaS
 3) Vanilla JavaScript: For interactions like the modal feature.
 
 #Project Structure
+
 ├── index.html           # Main HTML file
+
 ├── style.css            # CSS file for styling
+
 ├── script.js            # JavaScript file for interactions
+
 └── images/              # Folder for images used in the project
+
 
 #Getting Started
 1) Live Link: https://chipper-strudel-b36380.netlify.app
